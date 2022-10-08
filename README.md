@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Latamila
 - 👀 I’m interested in education and technology.
-- 🌱 I’m currently learning Data Science and Behavior Analisis.
-- 💞️ I’m looking to collaborate on Education and Behavior Analisis by Data Science.
+- 🌱 I’m currently learning Data Science and Behavior Analysis.
+- 💞️ I’m looking to collaborate on Education and Behavior Analysis by Data Science.
 - 📫 How to reach me: camilaaeromoca@gmail.com or  https://www.linkedin.com/in/camila-veloso-539866161
 
 <!---
