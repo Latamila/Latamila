@@ -20,8 +20,6 @@ You can click the Preview link to take a look at your changes.
     <img align='center' alt='python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     <img align='center' alt='python' height='30' width='40'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
     <img align='center' alt='python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-    <img align='center' alt='python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-    <img align='center' alt='python' height='30' width='40'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" />
     <img align='center' alt='python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
    <img align='center' alt='python' height='30' width='40'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
    <img align='center' alt='python' height='30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
