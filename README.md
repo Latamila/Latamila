@@ -31,3 +31,6 @@ You can click the Preview link to take a look at your changes.
 
           
           
+Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
+
+* Fiz cursos na USP, pela Plataforma Coursera e os projetos propostos podem ser melhor entendidos aqui: https://github.com/Latamila/USP_Ciencia_Computacao_Python/tree/main
