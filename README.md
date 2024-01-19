@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
           
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
 
-*Minha Análise Exploratória, Visualização dos Dados e Análise Preditiva com o conjunto de dados Titanic, está disponível aqui: https://github.com/Latamila/Quem_sobreviveria_Titanic
+* Minha Análise Exploratória, Visualização dos Dados e Análise Preditiva com o conjunto de dados Titanic, está disponível aqui: https://github.com/Latamila/Quem_sobreviveria_Titanic
 
 * Esta Análise e Previsão de Séries Temporais com Inteligência Artificial foi proposta no curso Engenheiro de IA da DSA ACADEMY com o estudo de caso Consumo de Energia e Contabilidade. Foi utilizado Redes Neurais LSTM, GRU e CNN. Também há um algoritmo específico para Testar Estacionaridade. Pode ser conferido por aqui: https://github.com/Latamila/ConsumoEnergiaSerieTemporal
 
@@ -46,9 +46,15 @@ Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa aju
 
 * Fiz cursos na USP, pela Plataforma Coursera e os projetos propostos podem ser melhor entendidos aqui: https://github.com/Latamila/USP_Ciencia_Computacao_Python/tree/main
 
-* Li o livro de Fernando Feltrin com 300 exercícios comentados e os exercicios e os comentários dos exercicios que tenho feito estão aqui:  https://github.com/Latamila/Logica_Programacao_Exercicios_comentados
+* Caso tenha interesse em Projetos de Machine Learning, usando diferentes abordagens, para distintos casos de uso com teste de algoritmos diversos para Avaliação e Deploy, sinta-se à vontade de avaliar meus projetos de Análise de Sentimento, Webscraping, Anatomia de uma Rede neural, Visão Computacional, construção de ChatBots e calculadoras simples, Clusterização, Arvore de Decisão, uso do KERAS_TFIDF, algoritmo para automação de pré-processamento de dados em tempo real, algoritmo de analise de Phishing e muito mais : https://github.com/Latamila/Latamila
 
-* Se caso tenha interesse em Projetos de Machine Learning, usando diferentes abordagens, para distintos casos de uso com teste de algoritmos diversos para Avaliação e Deploy, sinta-se à vontade de avaliar meus projetos de Análise de Sentimento, Webscraping, Anatomia de uma Rede neural, Visão Computacional, construção de ChatBots e calculadoras simples, Clusterização, Arvore de Decisão, uso do KERAS_TFIDF, algoritmo para automação de pré-processamento de dados em tempo real, algoritmo de analise de Phishing e muito mais : https://github.com/Latamila/Latamila
+* Caso se interesse em projetos de Mineração de Dados, meus projetos estão reunidos aqui. Foram escolhidos durante cursos, leituras de tutoriais, bootcamps e documentação de ferramentas. Aqui também vai encontrar um algoritmo para Teste de Regressão. Pode ser acessado por aqui: https://github.com/Latamila/Mineracao
+
+* Fiz um Aplicativo muito bacana com Plotly para visualização interativa do conjunto de dados com Fundos Imobiliários extraídos do site StatusInvest e você pode conferir aqui: https://github.com/Latamila/App_Dash_Plotly
+
+* Fiz um automação para enviar Mensagens Automáticas por Whatsapp usando uma planilha excel, apenas. Esta solução fantástica está disponível aqui: https://github.com/Latamila/AutomaticMsg_Whatsapp
+
+* Li o livro de Fernando Feltrin com 300 exercícios comentados e os exercicios e os comentários dos exercicios que tenho feito estão aqui:  https://github.com/Latamila/Logica_Programacao_Exercicios_comentados
 
 *Li o livro Automatize Tarefas Maçantes com Python e os insights com exemplo de código, pode ser visto aqui: https://github.com/Latamila/Automatize_Tarefas_Livro
 
