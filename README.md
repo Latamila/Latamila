@@ -4,6 +4,8 @@
 - 💞️ I’m majoring in Software Engineering and IA Engineering.
 - 📫 How to reach me: camilaaeromoca@gmail.com or  https://www.linkedin.com/in/camila-veloso-539866161
 
+
+
 <!---
 Latamila/Latamila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -37,3 +39,5 @@ You can click the Preview link to take a look at your changes.
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
 
 * Fiz cursos na USP, pela Plataforma Coursera e os projetos propostos podem ser melhor entendidos aqui: https://github.com/Latamila/USP_Ciencia_Computacao_Python/tree/main
+
+* Li o livro de Fernando Feltrin com 300 exercícios comentados e os exercicios e os comentários dos exercicios que tenho feito estão aqui:  https://github.com/Latamila/Logica_Programacao_Exercicios_comentados
