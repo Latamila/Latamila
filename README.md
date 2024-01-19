@@ -41,3 +41,5 @@ Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa aju
 * Fiz cursos na USP, pela Plataforma Coursera e os projetos propostos podem ser melhor entendidos aqui: https://github.com/Latamila/USP_Ciencia_Computacao_Python/tree/main
 
 * Li o livro de Fernando Feltrin com 300 exercícios comentados e os exercicios e os comentários dos exercicios que tenho feito estão aqui:  https://github.com/Latamila/Logica_Programacao_Exercicios_comentados
+
+* Se caso tenha interesse em Projetos de Machine Learning, usando diferentes abordagens, para distintos casos de uso com teste de algoritmos diversos para Avaliação e Deploy, sinta-se à vontade de avaliar meus projetos de Análise de Sentimento, Webscraping, Riscos, e muito mais : https://github.com/Latamila/Latamila
