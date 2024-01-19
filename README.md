@@ -42,4 +42,4 @@ Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa aju
 
 * Li o livro de Fernando Feltrin com 300 exercícios comentados e os exercicios e os comentários dos exercicios que tenho feito estão aqui:  https://github.com/Latamila/Logica_Programacao_Exercicios_comentados
 
-* Se caso tenha interesse em Projetos de Machine Learning, usando diferentes abordagens, para distintos casos de uso com teste de algoritmos diversos para Avaliação e Deploy, sinta-se à vontade de avaliar meus projetos de Análise de Sentimento, Webscraping, Riscos, e muito mais : https://github.com/Latamila/Latamila
+* Se caso tenha interesse em Projetos de Machine Learning, usando diferentes abordagens, para distintos casos de uso com teste de algoritmos diversos para Avaliação e Deploy, sinta-se à vontade de avaliar meus projetos de Análise de Sentimento, Webscraping, Anatomia de uma Rede neural, Visão Computacional, construção de ChatBots e calculadoras simples, Clusterização, Arvore de Decisão, uso do KERAS_TFIDF, algoritmo para automação de pré-processamento de dados em tempo real, algoritmo de analise de Phishing e muito mais : https://github.com/Latamila/Latamila
