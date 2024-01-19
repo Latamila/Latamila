@@ -29,6 +29,9 @@ You can click the Preview link to take a look at your changes.
    <img align='center' alt='python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
           
 
+
+
+
           
           
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
