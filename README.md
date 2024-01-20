@@ -59,6 +59,6 @@ Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa aju
 
 * Li o livro de Fernando Feltrin com 300 exercícios comentados e os exercicios e os comentários dos exercicios que tenho feito estão aqui:  https://github.com/Latamila/Logica_Programacao_Exercicios_comentados
 
-*Li o livro Automatize Tarefas Maçantes com Python e os insights com exemplo de código, pode ser visto aqui: https://github.com/Latamila/Automatize_Tarefas_Livro
+* Li o livro Automatize Tarefas Maçantes com Python e os insights com exemplo de código, pode ser visto aqui: https://github.com/Latamila/Automatize_Tarefas_Livro
 
 * Tenho praticado na plataforma Hacker Rank e meus exercícios estão aqui: https://github.com/Latamila/hackerRank
