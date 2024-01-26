@@ -63,6 +63,6 @@ Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa aju
 
 * Li o livro Automatize Tarefas Maçantes com Python e os insights com exemplo de código, pode ser visto aqui: https://github.com/Latamila/Automatize_Tarefas_Livro
 
-* Tenho praticado na plataforma Hacker Rank e meus exercícios estão aqui: https://github.com/Latamila/hackerRank
+* Problemas com Séries Temporais estão proposta aqui: https://github.com/Latamila/Series-Temporais
 
 * Faço estudos de casos regulares usando a biblioteca Scikit-learn e estão disponivel aqui: https://github.com/Latamila/Scikit-learn_estudos_casos/tree/main
