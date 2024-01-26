@@ -66,3 +66,5 @@ Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa aju
 * Problemas com Séries Temporais estão proposta aqui: https://github.com/Latamila/Series-Temporais
 
 * Faço estudos de casos regulares usando a biblioteca Scikit-learn e estão disponivel aqui: https://github.com/Latamila/Scikit-learn_estudos_casos/tree/main
+
+* Meu repositório para Series Temporais está aqui: https://github.com/Latamila/Series-Temporais
