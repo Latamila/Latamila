@@ -39,6 +39,8 @@ You can click the Preview link to take a look at your changes.
           
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
 
+* Fui capaz de implementar um algoritmo para Communication Handler e sua explicação está detalhada nos dois arquivos aqui: https://github.com/Latamila/Communication_Handler
+
 * Tenho praticado e aprendido muito pelo HackerRank e a resolução dos problemas que apareçam pra mim, estão aqui: https://github.com/Latamila/hackerRank
 
 * Minha Análise Exploratória, Visualização dos Dados e Análise Preditiva com o conjunto de dados Titanic, está disponível aqui: https://github.com/Latamila/Quem_sobreviveria_Titanic
