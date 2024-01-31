@@ -43,13 +43,13 @@ Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa aju
 
 * Minha Análise Exploratória, Visualização dos Dados e Análise Preditiva com o conjunto de dados Titanic, está disponível aqui: https://github.com/Latamila/Quem_sobreviveria_Titanic
 
-* Esta Análise e Previsão de Séries Temporais com Inteligência Artificial foi proposta no curso Engenheiro de IA da DSA ACADEMY com o estudo de caso Consumo de Energia e Contabilidade. Foi utilizado Redes Neurais LSTM, GRU e CNN. Também há um algoritmo específico para Testar Estacionaridade. Pode ser conferido por aqui: https://github.com/Latamila/ConsumoEnergiaSerieTemporal
+* Prevendo Consumo de Energia. Foi utilizado Redes Neurais LSTM, GRU e CNN. Também há um algoritmo específico para Testar Estacionaridade. Pode ser conferido por aqui: https://github.com/Latamila/ConsumoEnergiaSerieTemporal
 
-*  Fiz um projeto com Extração de informação da Bolsa de Valores na internet para Análise Exploratória e Preditiva de Preços com métodos de cálculo como SMA(simple moving averadge), MSD(moving standard deviation),VWAP(volume weighted average price) e RSI(INDICE DE FORÇA RELATIVA). Projeto proposto no Curso Engenheiro de IA da DSA Academy pode ser visto aqui: https://github.com/Latamila/SeriesTemporais_BolsadeValores_Yahoo
+*  Fiz um projeto com Extração de informação da Bolsa de Valores na internet para Análise Exploratória e Preditiva de Preços com métodos de cálculo como SMA(simple moving averadge), MSD(moving standard deviation),VWAP(volume weighted average price) e RSI(INDICE DE FORÇA RELATIVA). O projeto pode ser conferido aqui: https://github.com/Latamila/SeriesTemporais_BolsadeValores_Yahoo
 
-* Fiz cursos na USP, pela Plataforma Coursera e os projetos propostos podem ser melhor entendidos aqui: https://github.com/Latamila/USP_Ciencia_Computacao_Python/tree/main
+* Curso na USP, pela Plataforma Coursera e os projetos propostos podem ser melhor entendidos aqui: https://github.com/Latamila/USP_Ciencia_Computacao_Python/tree/main
 
-* Estou fazendo o curso Ciência da Computação com Python parte 2, continuação do curso acima. Os projetos e aprendizagem relevante estará disponivel aqui: https://github.com/Latamila/USP_Python_2/tree/main
+* O curso Ciência da Computação com Python parte 2, continuação do curso acima. Os projetos e aprendizagem relevante estará disponivel aqui: https://github.com/Latamila/USP_Python_2/tree/main
 
 * Caso tenha interesse em Projetos de Machine Learning, usando diferentes abordagens, para distintos casos de uso com teste de algoritmos diversos para Avaliação e Deploy, sinta-se à vontade de avaliar meus projetos de Análise de Sentimento, Webscraping, Anatomia de uma Rede neural, Visão Computacional, construção de ChatBots e calculadoras simples, Clusterização, Arvore de Decisão, uso do KERAS_TFIDF, algoritmo para automação de pré-processamento de dados em tempo real, algoritmo de analise de Phishing e muito mais : https://github.com/Latamila/Latamila
 
