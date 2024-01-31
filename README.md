@@ -38,6 +38,11 @@ You can click the Preview link to take a look at your changes.
           
           
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
+* Faço estudos de casos regulares usando a biblioteca Scikit-learn e estão disponivel aqui: https://github.com/Latamila/Scikit-learn_estudos_casos/tree/main
+  
+* Projetos realizados usando PyTorch e Lightning estão aqui: https://github.com/Latamila/PyTorch-e-Lightning/tree/main
+
+* Problemas com Séries Temporais estão proposta aqui: https://github.com/Latamila/Series-Temporais
 
 * Tenho praticado e aprendido muito pelo HackerRank e a resolução dos problemas que apareçam pra mim, estão aqui: https://github.com/Latamila/hackerRank
 
@@ -62,9 +67,3 @@ Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa aju
 * Li o livro de Fernando Feltrin com 300 exercícios comentados e os exercicios e os comentários dos exercicios que tenho feito estão aqui:  https://github.com/Latamila/Logica_Programacao_Exercicios_comentados
 
 * Li o livro Automatize Tarefas Maçantes com Python e os insights com exemplo de código, pode ser visto aqui: https://github.com/Latamila/Automatize_Tarefas_Livro
-
-* Problemas com Séries Temporais estão proposta aqui: https://github.com/Latamila/Series-Temporais
-
-* Faço estudos de casos regulares usando a biblioteca Scikit-learn e estão disponivel aqui: https://github.com/Latamila/Scikit-learn_estudos_casos/tree/main
-
-* Meu repositório para Series Temporais está aqui: https://github.com/Latamila/Series-Temporais
