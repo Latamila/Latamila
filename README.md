@@ -38,9 +38,18 @@ You can click the Preview link to take a look at your changes.
           
           
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
+
+*Meu WebApp de LLM com Fine Tuning, PyTorch e GPT2 do Transformers. O deploy foi feito com Gradio. Está disponível em ambiente Cloud Spaces do Hugging Faces:
+https://huggingface.co/spaces/camilaaeromoca/LLM_gradio
+Github:
+https://github.com/Latamila/LLM_Modelagem_Deploy_Gradio/tree/main
+LinkedIn:
+https://www.linkedin.com/feed/update/urn:li:activity:7167927772009381888/
+
 * Faço estudos de casos regulares usando a biblioteca Scikit-learn e estão disponivel aqui: https://github.com/Latamila/Scikit-learn_estudos_casos/tree/main
   
 * Projetos realizados usando PyTorch e Lightning estão aqui: https://github.com/Latamila/PyTorch-e-Lightning/tree/main
+  
 
 * Problemas com Séries Temporais estão proposta aqui: https://github.com/Latamila/Series-Temporais
 
