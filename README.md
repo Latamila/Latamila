@@ -39,6 +39,8 @@ You can click the Preview link to take a look at your changes.
           
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
 
+*Fiz um balanceador de carga simples e outro com automação para abrir páginas do whatsapp em portas específicas e assim controlar o balanceador de carga. 
+
 *Meu WebApp de LLM com Fine Tuning, PyTorch e GPT2 do Transformers. O deploy foi feito com Gradio. Está disponível em ambiente Cloud Spaces do Hugging Faces:
 https://huggingface.co/spaces/camilaaeromoca/LLM_gradio
 Github:
