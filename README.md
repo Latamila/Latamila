@@ -39,42 +39,41 @@ You can click the Preview link to take a look at your changes.
           
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
 
-*Fiz um balanceador de carga simples e outro com automação para abrir páginas do whatsapp em portas específicas e assim controlar o balanceador de carga. 
 
-*Meu WebApp de LLM com Fine Tuning, PyTorch e GPT2 do Transformers. O deploy foi feito com Gradio. Está disponível em ambiente Cloud Spaces do Hugging Faces:
+* Meu **WebApp de LLM com Fine Tuning, PyTorch e GPT2 do Transformers**. O deploy foi feito com Gradio. Está disponível em ambiente Cloud Spaces do Hugging Faces:
 https://huggingface.co/spaces/camilaaeromoca/LLM_gradio
 Github:
 https://github.com/Latamila/LLM_Modelagem_Deploy_Gradio/tree/main
 LinkedIn:
 https://www.linkedin.com/feed/update/urn:li:activity:7167927772009381888/
 
-* Faço estudos de casos regulares usando a biblioteca Scikit-learn e estão disponivel aqui: https://github.com/Latamila/Scikit-learn_estudos_casos/tree/main
+* Faço estudos de casos regulares usando a **biblioteca Scikit-learn** e estão disponivel aqui: https://github.com/Latamila/Scikit-learn_estudos_casos/tree/main
   
-* Projetos realizados usando PyTorch e Lightning estão aqui: https://github.com/Latamila/PyTorch-e-Lightning/tree/main
+* Projetos realizados usando **PyTorch e Lightning** estão aqui: https://github.com/Latamila/PyTorch-e-Lightning/tree/main
   
 
-* Problemas com Séries Temporais estão proposta aqui: https://github.com/Latamila/Series-Temporais
+* Problemas com **Séries Temporais** estão proposta aqui: https://github.com/Latamila/Series-Temporais
 
-* Tenho praticado e aprendido muito pelo HackerRank e a resolução dos problemas que apareçam pra mim, estão aqui: https://github.com/Latamila/hackerRank
+* Tenho praticado e aprendido muito pelo **HackerRank** e a resolução dos problemas que apareçam pra mim, estão aqui: https://github.com/Latamila/hackerRank
 
-* Minha Análise Exploratória, Visualização dos Dados e Análise Preditiva com o conjunto de dados Titanic, está disponível aqui: https://github.com/Latamila/Quem_sobreviveria_Titanic
+* Minha Análise Exploratória, Visualização dos Dados e Análise Preditiva com o conjunto de dados **Titanic**, está disponível aqui: https://github.com/Latamila/Quem_sobreviveria_Titanic
 
-* Prevendo Consumo de Energia. Foi utilizado Redes Neurais LSTM, GRU e CNN. Também há um algoritmo específico para Testar Estacionaridade. Pode ser conferido por aqui: https://github.com/Latamila/ConsumoEnergiaSerieTemporal
+* Prevendo Consumo de Energia. Foi utilizado **Redes Neurais LSTM, GRU e CNN**. Também há um algoritmo específico para Testar Estacionaridade. Pode ser conferido por aqui: https://github.com/Latamila/ConsumoEnergiaSerieTemporal
 
-*  Fiz um projeto com Extração de informação da Bolsa de Valores na internet para Análise Exploratória e Preditiva de Preços com métodos de cálculo como SMA(simple moving averadge), MSD(moving standard deviation),VWAP(volume weighted average price) e RSI(INDICE DE FORÇA RELATIVA). O projeto pode ser conferido aqui: https://github.com/Latamila/SeriesTemporais_BolsadeValores_Yahoo
+*  Fiz um projeto com **Extração de informação da Bolsa de Valores na internet** para Análise Exploratória e Preditiva de Preços com métodos de cálculo como SMA(simple moving averadge), MSD(moving standard deviation),VWAP(volume weighted average price) e RSI(INDICE DE FORÇA RELATIVA). O projeto pode ser conferido aqui: https://github.com/Latamila/SeriesTemporais_BolsadeValores_Yahoo
 
-* Curso na USP, pela Plataforma Coursera e os projetos propostos podem ser melhor entendidos aqui: https://github.com/Latamila/USP_Ciencia_Computacao_Python/tree/main
+* **Curso na USP**, pela Plataforma Coursera e os projetos propostos podem ser melhor entendidos aqui: https://github.com/Latamila/USP_Ciencia_Computacao_Python/tree/main
 
-* O curso Ciência da Computação com Python parte 2, continuação do curso acima. Os projetos e aprendizagem relevante estará disponivel aqui: https://github.com/Latamila/USP_Python_2/tree/main
+* O curso **Ciência da Computação com Python parte 2**, continuação do curso acima. Os projetos e aprendizagem relevante estará disponivel aqui: https://github.com/Latamila/USP_Python_2/tree/main
 
-* Caso tenha interesse em Projetos de Machine Learning, usando diferentes abordagens, para distintos casos de uso com teste de algoritmos diversos para Avaliação e Deploy, sinta-se à vontade de avaliar meus projetos de Análise de Sentimento, Webscraping, Anatomia de uma Rede neural, Visão Computacional, construção de ChatBots e calculadoras simples, Clusterização, Arvore de Decisão, uso do KERAS_TFIDF, algoritmo para automação de pré-processamento de dados em tempo real, algoritmo de analise de Phishing e muito mais : https://github.com/Latamila/Latamila
+* Caso tenha interesse em Projetos de Machine Learning, usando diferentes abordagens, para distintos casos de uso com teste de algoritmos diversos para Avaliação e Deploy, sinta-se à vontade de avaliar meus projetos de **Análise de Sentimento, Webscraping, Anatomia de uma Rede neural, Visão Computacional, construção de ChatBots e calculadoras simples, Clusterização, Arvore de Decisão, uso do KERAS_TFIDF, algoritmo para automação de pré-processamento de dados em tempo real, algoritmo de analise de Phishing** e muito mais : https://github.com/Latamila/Latamila
 
-* Caso se interesse em projetos de Mineração de Dados, meus projetos estão reunidos aqui. Foram escolhidos durante cursos, leituras de tutoriais, bootcamps e documentação de ferramentas. Aqui também vai encontrar um algoritmo para Teste de Regressão. Pode ser acessado por aqui: https://github.com/Latamila/Mineracao
+* Caso se interesse em projetos de **Mineração de Dados**, meus projetos estão reunidos aqui. Foram escolhidos durante cursos, leituras de tutoriais, bootcamps e documentação de ferramentas. Aqui também vai encontrar um algoritmo para Teste de Regressão. Pode ser acessado por aqui: https://github.com/Latamila/Mineracao
 
-* Fiz um Aplicativo muito bacana com Plotly para visualização interativa do conjunto de dados com Fundos Imobiliários extraídos do site StatusInvest e você pode conferir aqui: https://github.com/Latamila/App_Dash_Plotly
+* Fiz um **Aplicativo muito bacana com Plotly e Dash** para visualização interativa do conjunto de dados com Fundos Imobiliários extraídos do site StatusInvest e você pode conferir aqui: https://github.com/Latamila/App_Dash_Plotly
 
-* Fiz um automação para enviar Mensagens Automáticas por Whatsapp usando uma planilha excel, apenas. Esta solução fantástica está disponível aqui: https://github.com/Latamila/AutomaticMsg_Whatsapp
+* Fiz um automação para enviar **Mensagens Automáticas por Whatsapp** usando uma planilha excel, apenas. Esta solução fantástica está disponível aqui: https://github.com/Latamila/AutomaticMsg_Whatsapp
 
-* Li o livro de Fernando Feltrin com 300 exercícios comentados e os exercicios e os comentários dos exercicios que tenho feito estão aqui:  https://github.com/Latamila/Logica_Programacao_Exercicios_comentados
+* Li o livro de Fernando Feltrin com **300 exercícios comentados** e os exercicios e os comentários dos exercicios que tenho feito estão aqui:  https://github.com/Latamila/Logica_Programacao_Exercicios_comentados
 
-* Li o livro Automatize Tarefas Maçantes com Python e os insights com exemplo de código, pode ser visto aqui: https://github.com/Latamila/Automatize_Tarefas_Livro
+* Li o livro **Automatize Tarefas Maçantes com Python** e os insights com exemplo de código, pode ser visto aqui: https://github.com/Latamila/Automatize_Tarefas_Livro
