@@ -42,6 +42,8 @@ Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa aju
 * Sou Mentora Voluntária Técnica na Escola da Nuvem para a Certificação de AI-900 da Microsoft Azure. Implementei um cronograma para meus mentorados acompanhe tanto online nas sessões como offline. Acredito que se você fizer uma Imersão em sequência de 2 semanas, com certeza, conseguirá tirar esta certificação de forma autodidata. Bons estudos:
 https://github.com/Latamila/Certificacao_AI900Microsoft
 
+Padlet com cronograma de estudos integrados: https://padlet.com/camilaaeromoca/mentoria-tecnica-ai-900-5kst2az4hc6mw66
+
 * Meu **WebApp de LLM com Fine Tuning, PyTorch e GPT2 do Transformers**. O deploy foi feito com Gradio. Está disponível em ambiente Cloud Spaces do Hugging Faces:
 https://huggingface.co/spaces/camilaaeromoca/LLM_gradio
 Github:
