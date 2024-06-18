@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
           
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
 
-* Sou Mentora Voluntária Técnica na Escola da Nuvem para a Certificação de AI-900 da Microsoft Azure. Implementei um cronograma para meus mentorados acompanhe tanto online nas sessões como offline. Acredito que se você fizer uma imersão em sequência, com certeza, conseguirá tirar esta certificação de forma autodidata. Bons estudos:
+* Sou Mentora Voluntária Técnica na Escola da Nuvem para a Certificação de AI-900 da Microsoft Azure. Implementei um cronograma para meus mentorados acompanhe tanto online nas sessões como offline. Acredito que se você fizer uma Imersão em sequência de 2 semanas, com certeza, conseguirá tirar esta certificação de forma autodidata. Bons estudos:
 https://github.com/Latamila/Certificacao_AI900Microsoft
 
 * Meu **WebApp de LLM com Fine Tuning, PyTorch e GPT2 do Transformers**. O deploy foi feito com Gradio. Está disponível em ambiente Cloud Spaces do Hugging Faces:
