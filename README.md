@@ -44,6 +44,11 @@ https://github.com/Latamila/Certificacao_AI900Microsoft
 
 Padlet com cronograma de estudos integrados: https://padlet.com/camilaaeromoca/mentoria-tecnica-ai-900-5kst2az4hc6mw66
 
+* Sou Mentora Voluntária Técnica na Escola da Nuvem para a Certificação de AZ-900 da Microsoft Azure. Bons estudos:
+https://github.com/Latamila/AZ900_Microsoft_Certification
+
+Padlet de estudos integrados: https://padlet.com/camilaaeromoca/az-900-microsoft-dr1fri9u4vg6wu29
+
 * Meu **WebApp de LLM com Fine Tuning, PyTorch e GPT2 do Transformers**. O deploy foi feito com Gradio. Está disponível em ambiente Cloud Spaces do Hugging Faces:
 https://huggingface.co/spaces/camilaaeromoca/LLM_gradio
 Github:
