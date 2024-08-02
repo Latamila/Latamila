@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
           
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
 
-* Sou Mentora Voluntária Técnica na Escola da Nuvem para a Certificação de AI-900 da Microsoft Azure. Implementei um cronograma para meus mentorados acompanhe tanto online nas sessões como offline. Acredito que se você fizer uma Imersão em sequência de 2 semanas, com certeza, conseguirá tirar esta certificação de forma autodidata. Bons estudos:
+* Sou MENTORA TÉCNICA VOLUNTÁRIA na Escola da Nuvem para a Certificação de AI-900 da Microsoft Azure e do curso de Fundamentos de Tecnologia. Implementei um cronograma para que meus mentorados acompanhe tanto online nas sessões como offline. Acredito que se você fizer uma Imersão em sequência de 2 semanas, com certeza, conseguirá tirar esta certificação de forma autodidata. Bons estudos:
 https://github.com/Latamila/Certificacao_AI900Microsoft
 
 Padlet com cronograma de estudos integrados: https://padlet.com/camilaaeromoca/mentoria-tecnica-ai-900-5kst2az4hc6mw66
