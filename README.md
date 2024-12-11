@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I'm @Camila and I'm Brazilian!!!  </h1>
+<h1>👋 Hi, I'm @Camila and I'm Brazilian!!!  </h1>
 - 💞️ I'm madly in love with Python.
 - 👀 I’m interested in Machine Learning, IA and Data Science Analysis to solve business problems.
 - 🌱 I have a degree in Data Science, Educacional Psychology, Pedagogy and Teaching Portuguese and Spanish.
