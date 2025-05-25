@@ -1,5 +1,3 @@
-/
-
 void main(List<String> arguments){
   var texto = "meu primeiro bloco for";
   for (var i = 0; i <= texto.length -1; i++){
@@ -23,4 +21,6 @@ void main(List<String> arguments){
     print("$i - $resultado");
   }
 }
+
+
 
