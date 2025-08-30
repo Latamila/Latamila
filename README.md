@@ -39,18 +39,20 @@ You can click the Preview link to take a look at your changes.
           
 Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa ajudar:
 
-* Estou como Instrutora de Carreira para a área de TI na Escola da Nuvem e sou Mentora Voluntária para a Certificação de AI-900 da Microsoft Azure e do curso de Fundamentos de Tecnologia. Implementei um cronograma de estudos para que meus mentorados (AI900) acompanhem tanto online nas sessões como offline POR ESTUDOS AUTODIRIGIDOS. Acredito que se você fizer uma Imersão em sequência de 2 semanas, com certeza, conseguirá tirar esta certificação de forma autodidata. Bons estudos:
+Instrutora de Carreira para a área de TI na Escola da Nuvem e Mentora Voluntária para a Certificação de AI-900 da Microsoft Azure. 
+
+Implementei um cronograma de estudos para que meus mentorados (AI900) acompanhem tanto online nas sessões como offline POR ESTUDOS AUTODIRIGIDOS. Acredito que se você fizer uma Imersão em sequência de 2 semanas, com certeza, conseguirá tirar esta certificação de forma autodidata. Bons estudos:
 https://github.com/Latamila/Certificacao_AI900Microsoft
 
 [(https://mulher3c.com/do-varejo-a-programacao-como-brilhar-na-transicao-de-carreira-em-tecnologia/)](https://mulher3c.com/do-varejo-a-programacao-como-brilhar-na-transicao-de-carreira-em-tecnologia/)
 
-* Sou Mentora Voluntária Técnica na Escola da Nuvem para a Certificação de AZ-900 da Microsoft Azure. Bons estudos:
-* 
+* Material para Certificação de AZ-900 da Microsoft Azure. Bons estudos:
+
 https://github.com/Latamila/AZ900_Microsoft_Certification
 
 Padlet de estudos integrados: https://padlet.com/camilaaeromoca/az-900-microsoft-dr1fri9u4vg6wu29
 
-* Meu **WebApp de LLM com Fine Tuning, PyTorch e GPT2 do Transformers**. O deploy foi feito com Gradio. Está disponível em ambiente Cloud Spaces do Hugging Faces:
+**WebApp de LLM com Fine Tuning, PyTorch e GPT2 do Transformers**. O deploy foi feito com Gradio. Está disponível em ambiente Cloud Spaces do Hugging Faces:
 https://huggingface.co/spaces/camilaaeromoca/LLM_gradio
 Github:
 https://github.com/Latamila/LLM_Modelagem_Deploy_Gradio/tree/main
