@@ -52,7 +52,7 @@ https://github.com/Latamila/AZ900_Microsoft_Certification
 
 Padlet de estudos integrados: https://padlet.com/camilaaeromoca/az-900-microsoft-dr1fri9u4vg6wu29
 
-Projeto de Aplicativo para Controle de Entrada e Saida como Conteole de Pontos, desenvolvido em Flutter:
+Projeto de Aplicativo para Controle de Entrada e Saida como Controle de Pontos, desenvolvido em Flutter:
 https://github.com/Latamila/meu_app_oo
 
 **WebApp de LLM com Fine Tuning, PyTorch e GPT2 do Transformers**. O deploy foi feito com Gradio. Está disponível em ambiente Cloud Spaces do Hugging Faces:
