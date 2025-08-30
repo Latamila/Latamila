@@ -41,7 +41,7 @@ Se quiser passear pelos repositórios, tenho alguns atalhos que talvez possa aju
 
 Instrutora de Carreira para a área de TI na Escola da Nuvem e Mentora Voluntária para a Certificação de AI-900 da Microsoft Azure. 
 
-Implementei um cronograma de estudos para que meus mentorados (AI900) acompanhem tanto online nas sessões como offline POR ESTUDOS AUTODIRIGIDOS. Acredito que se você fizer uma Imersão em sequência de 2 semanas, com certeza, conseguirá tirar esta certificação de forma autodidata. Bons estudos:
+Implementação de Site Próprio com cronograma de estudos para que meus mentorados (AI900) acompanhem tanto online nas sessões como offline POR ESTUDOS AUTODIRIGIDOS. Acredito que se você fizer uma Imersão em sequência de 2 semanas, com certeza, conseguirá tirar esta certificação de forma autodidata. Bons estudos:
 https://github.com/Latamila/Certificacao_AI900Microsoft
 
 [(https://mulher3c.com/do-varejo-a-programacao-como-brilhar-na-transicao-de-carreira-em-tecnologia/)](https://mulher3c.com/do-varejo-a-programacao-como-brilhar-na-transicao-de-carreira-em-tecnologia/)
